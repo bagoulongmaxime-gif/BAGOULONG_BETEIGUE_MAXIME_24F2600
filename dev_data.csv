@@ -1,9 +1,15 @@
 Date,Nom de l'étudiant,Heures de Code,Tasses de Café,Heures de Sommeil,Niveau de Stress (1-10),Bugs Résolus,Langage Principal
-2026-04-26,Anonyme,2.0,2,7.0,5,2,Python
-2026-04-26,Anonyme,2.0,1,7.0,5,0,Python
-2026-04-26,Anonyme,2.0,1,7.0,5,0,Python
-2026-04-26,Anonyme,3.0,4,8.0,5,2,Python
-2026-04-26,Maxime,2.0,1,7.0,5,0,Python
-2026-04-26,Maxime,2.0,1,7.0,5,0,Python
-2026-03-16,Jean,7.0,2,7.0,2,6,C
-2026-04-27,bagoulong,3.0,0,7.0,5,1,C++
+2026-04-20,Maxime,4.5,2,8.0,3,4,Python
+2026-04-21,Alice,7.0,5,5.5,7,12,Java
+2026-04-22,Paul,2.0,1,7.5,2,1,HTML/CSS
+2026-04-23,Sarah,8.5,6,4.0,9,8,C++
+2026-04-24,David,5.0,3,7.0,4,5,JavaScript
+2026-04-25,Julie,6.5,4,6.0,5,7,Python
+2026-04-26,Thomas,3.0,0,9.0,1,2,Autre
+2026-04-27,Leo,9.0,8,3.5,9,15,C
+2026-04-27,Chloe,5.5,2,7.5,3,6,Python
+2026-04-27,Enzo,1.5,0,8.5,2,0,Autre
+2026-04-27,Marie,7.5,5,6.5,6,10,Java
+2026-04-27,Lucas,6.0,3,7.0,4,8,JavaScript
+2026-04-27,Sophie,4.0,1,8.0,3,3,HTML/CSS
+2026-04-27,Hugo,8.0,7,5.0,8,11,Python
